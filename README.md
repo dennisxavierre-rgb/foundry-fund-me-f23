@@ -65,6 +65,6 @@ $ anvil --help
 $ cast --help
 ```
 
-# Foundry is awesome!!
+### Conclusion
 
-Anyway that's all.
+Things can go wrong. Always consult your AI buddy.
