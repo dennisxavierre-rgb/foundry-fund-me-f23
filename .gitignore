@@ -18,3 +18,8 @@ docs/
 .env
 .env.*
 !.env.example
+
+
+.DS_store
+
+zkout/
